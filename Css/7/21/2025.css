@@ -130,7 +130,6 @@ li[class*="messageListItem"]:hover {
     transform: translate(-50%, -50%) rotate(180deg) !important;
 }
 
-@import url("https://raw.githubusercontent.com/Augenbl1ck/Discord-Styles/refs/heads/main/compactUserinfo.css");
 
 :root {
   /* Always visible roles -> Max 8; Min 1 */
@@ -720,7 +719,7 @@ form>div.focusLock__49fc1>div.rootWithShadow__49fc1 {
     margin-top: -6px;
     margin-left: 3px;
     background-color: transparent;
-    background: url('https://cdn.discordapp.com/emojis/1026533070955872337.webp?size=48');
+    background: url('https://github.com/OBS-Akuma/assets/blob/main/Glitchy/popcorn.png?raw=true');
     background-size: 12px;
     background-position: center;
 }
