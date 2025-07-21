@@ -1,0 +1,40 @@
+.emoji[alt=":sob:"],
+.emoji[alt="😭"], img[src$="7983a576631eafce8bfb.svg"] {
+  content: url("https://github.com/OBS-Akuma/assets/blob/main/Glitchy/sad.png?raw=true");
+}
+.emoji[alt=":flushed:"],
+.emoji[alt="😳"], img[src$="7983a576631eafce8bfb.svg"] {
+  content: url("https://github.com/OBS-Akuma/assets/blob/main/Glitchy/flustered.png?raw=true");
+}
+.emoji[alt=":expressionless:"],
+.emoji[alt="😑"], img[src$="7983a576631eafce8bfb.svg"] {
+  content: url("https://github.com/OBS-Akuma/assets/blob/main/Glitchy/facepalm.png?raw=true");
+}
+.emoji[alt=":question:"],
+.emoji[alt=":interrobang:"],
+.emoji[alt=":grey_question:"],
+.emoji[alt="⁉️"],
+.emoji[alt="❓"],
+.emoji[alt="❔"], img[src$="7983a576631eafce8bfb.svg"] {
+  content: url("https://github.com/OBS-Akuma/assets/blob/main/Glitchy/confused.png?raw=true");
+}
+.emoji[alt=":poop:"],
+.emoji[alt="💩"], img[src$="7983a576631eafce8bfb.svg"] {
+  content: url("https://github.com/OBS-Akuma/assets/blob/main/Glitchy/bot.png?raw=true");
+}
+.emoji[alt=":smiley:"],
+.emoji[alt="😃"], img[src$="7983a576631eafce8bfb.svg"] {
+  content: url("https://github.com/OBS-Akuma/assets/blob/main/Glitchy/glitchkisser.png?raw=true");
+}
+.emoji[alt=":blush:"],
+.emoji[alt="😊"], img[src$="7983a576631eafce8bfb.svg"] {
+  content: url("https://github.com/OBS-Akuma/assets/blob/main/Glitchy/petpet.png?raw=true");
+}
+.emoji[alt=":eyes:"],
+.emoji[alt="👀"], img[src$="7983a576631eafce8bfb.svg"] {
+  content: url("https://github.com/OBS-Akuma/assets/blob/main/Glitchy/popcorn.png?raw=true");
+}
+.emoji[alt=":smile:"],
+.emoji[alt="😄"], img[src$="7983a576631eafce8bfb.svg"] {
+  content: url("https://github.com/OBS-Akuma/assets/blob/main/Glitchy/smiling.png?raw=true");
+}
