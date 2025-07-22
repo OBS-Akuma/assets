@@ -231,6 +231,56 @@
                 "nearestNeighbour": false,
                 "square": false
             },
+            "MoreUserTags": {
+                "enabled": true,
+                "tagSettings": {
+                    "WEBHOOK": {
+                        "text": "Webhook",
+                        "showInChat": true,
+                        "showInNotChat": true
+                    },
+                    "OWNER": {
+                        "text": "Owner",
+                        "showInChat": true,
+                        "showInNotChat": true
+                    },
+                    "ADMINISTRATOR": {
+                        "text": "Admin",
+                        "showInChat": true,
+                        "showInNotChat": true
+                    },
+                    "MODERATOR_STAFF": {
+                        "text": "Staff",
+                        "showInChat": true,
+                        "showInNotChat": true
+                    },
+                    "MODERATOR": {
+                        "text": "Mod",
+                        "showInChat": true,
+                        "showInNotChat": true
+                    },
+                    "VOICE_MODERATOR": {
+                        "text": "VC Mod",
+                        "showInChat": true,
+                        "showInNotChat": true
+                    },
+                    "CHAT_MODERATOR": {
+                        "text": "Chat Mod",
+                        "showInChat": true,
+                        "showInNotChat": true
+                    },
+                    "GLITCH": {
+                        "text": "G|1tch",
+                        "showInChat": true,
+                        "showInNotChat": true
+                    },
+                    "YOU": {
+                        "text": "Glitch",
+                        "showInChat": true,
+                        "showInNotChat": true
+                    }
+                }
+            },
             "ImplicitRelationships": {
                 "enabled": false
             },
