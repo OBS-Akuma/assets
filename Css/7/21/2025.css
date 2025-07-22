@@ -1,13 +1,14 @@
 @import url("https://raw.githubusercontent.com/Augenbl1ck/Discord-Styles/refs/heads/main/compactUserinfo.css");
-@import url(https://blade04208.github.io/css/smolprofile.css);
-@import url(https://davart154.github.io/Themes/Snippets/Simplified%20Panel%20Area/SimplifiedPanelArea.css);
-@import url('https://raw.githubusercontent.com/Krammeth/css-snippets/refs/heads/main/PopoutsRevamped/PopoutsRevamped.css');
+@import url("https://blade04208.github.io/css/smolprofile.css");
+@import url("https://davart154.github.io/Themes/Snippets/Simplified%20Panel%20Area/SimplifiedPanelArea.css");
+@import url("https://raw.githubusercontent.com/Krammeth/css-snippets/refs/heads/main/PopoutsRevamped/PopoutsRevamped.css");
 @import url("https://raw.githubusercontent.com/HeroOfDungeon/snippets/refs/heads/main/More%20Animations.css");
 @import url("https://blade04208.github.io/css/aerotitlebuttons.css");
-@import url(https://blade04208.github.io/css/smolprofile.css);
+@import url("https://blade04208.github.io/css/smolprofile.css");
 @import url("https://nspc911.github.io/themes/vencord/RefreshedSeamlessChatBar.theme.css");
-@import url('https://ukriu.github.io/cssCord/Other/gradientDM.css');
-@import url('https://github.com/OBS-Akuma/assets/raw/refs/heads/main/Glitchy/Emojikisser.css');
+@import url("https://ukriu.github.io/cssCord/Other/gradientDM.css");
+@import url("https://github.com/OBS-Akuma/assets/raw/refs/heads/main/Glitchy/Emojikisser.css");
+@import url("https://github.com/OBS-Akuma/assets/raw/refs/heads/main/Glitchy/Bacecss.css");
 [data-list-item-id*="message"],
 [class*="messageListItem"],
 [id*="message-"],
