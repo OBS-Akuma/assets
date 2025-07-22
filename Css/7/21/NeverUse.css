@@ -1,0 +1,11 @@
+/* just some test css */
+@import url("https://lazuee.github.io/css-snippets/discord/sidebar-dm/import.css");
+body{background:url("https://minidiscordthemes.github.io/Snippets/Billboard/asset/bg.avif")}#app-mount{transform:rotate(0deg) skew(0deg) scale(0.9);
+a[href="https://support.discord.com"],
+.recentsIcon-F3eO1o,
+.nowPlayingColumn-1eCBCN,
+.newChannel-3q3LPr,
+.bar__7aaec,
+.bar_c38106.theme-dark.theme-midnight.images-dark,
+div[aria-label*="Show User Profile"],
+button[aria-label="Send a gift"]
