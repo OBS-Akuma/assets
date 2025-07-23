@@ -55,3 +55,12 @@ Cya kirka and my pookie's
 <img width="691" height="355" alt="image" src="https://github.com/user-attachments/assets/e1f6610a-52d4-42ca-bfa3-f2047da46603" />
 
 I lied I only made one :3
+
+## a few Random Cool ppl
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1169111190824308768)](https://discord.com/users/1169111190824308768)
+[![Discord Presence](https://lanyard.cnrad.dev/api/152629470082236416)](https://discord.com/users/152629470082236416)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1039925878043447367)](https://discord.com/users/1039925878043447367)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1104142614766293012)](https://discord.com/users/1104142614766293012)
+
+I'd add more butt...... they need to be in a server in all that's just to much fr
