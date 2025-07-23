@@ -64,3 +64,11 @@ I lied I only made one :3
 [![Discord Presence](https://lanyard.cnrad.dev/api/1104142614766293012)](https://discord.com/users/1104142614766293012)
 
 I'd add more butt...... they need to be in a server in all that's just to much fr
+
+## [random shit from Glitchy](https://discord.com/users/1236667927944761396) 
+[skid](https://shitfest.net/skid)
+[0ahacker](https://shitfest.net/0ahacker)
+[monsters](https://shitfest.net/monsters)
+
+## alr last thing lol
+<img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/0d76a64e-2f6b-407c-8eff-d0c38d39b44e" />
