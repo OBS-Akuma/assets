@@ -63,7 +63,7 @@ I lied I only made one :3
 [![Discord Presence](https://lanyard.cnrad.dev/api/1039925878043447367)](https://discord.com/users/1039925878043447367)
 [![Discord Presence](https://lanyard.cnrad.dev/api/1104142614766293012)](https://discord.com/users/1104142614766293012)
 
-I'd add more butt...... they need to be in a server in all that's just to much fr
+I'd add more butt...... they need to be in a server and all that's just to much fr
 
 ## [random shit from Glitchy](https://discord.com/users/1236667927944761396) 
 [skid](https://shitfest.net/skid)
